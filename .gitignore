@@ -1,6 +1,7 @@
 
 # Ignorar archivos de configuración local
 .env
+ env.js
 
 # Ignorar archivos sistema MACOS
 .DS_Store
