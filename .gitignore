@@ -1,0 +1,6 @@
+
+# Ignorar archivos de configuración local
+.env
+
+# Ignorar archivos sistema MACOS
+.DS_Store
